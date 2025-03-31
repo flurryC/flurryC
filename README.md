@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning C, C++ and AWL
 - 📫 How to reach me @flurry_c on discord
 - 😄 Pronouns: he/him
-- 🎧 My Spotify: [Flurry](https://spotify.com/user/nauyslhlqf6ry61fmrfdnc1px)
+- 🎧 My Spotify: [Flurry](https://open.spotify.com/user/nauyslhlqf6ry61fmrfdnc1px)
